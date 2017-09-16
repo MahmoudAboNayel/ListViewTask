@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText
+        android:id="@+id/nota"
+        android:text="اكتب مذكرة"
+        />
+    <Button
+        android:id="@+id/add"
+        android:text="Add"
+        />
+</selector>
